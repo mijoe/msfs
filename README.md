@@ -5,7 +5,7 @@
 * [Microsoft Flight Simulator](https://www.flightsimulator.com/)
 * [Microsoft Flight Simulator Forums](https://forums.flightsimulator.com/) - Official Microsoft Flight Simulator Forums
 
-## Add
+## Add-Ons
 
 [Flightsim.to](https://flightsim.to/) - Discover thousands of free Microsoft Flight Simulator Add-ons and Mods for PC - our liveries, airports, scenery and planes are 100% free to download!
 
