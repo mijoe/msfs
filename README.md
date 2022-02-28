@@ -1,2 +1,1 @@
-# msfs
-Microsoft Flight Simluator
+# Microsoft Flight Simulator
