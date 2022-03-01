@@ -2,7 +2,7 @@
 
 ## General
 
-* [Microsoft Flight Simulator](https://www.flightsimulator.com/)
+* [Microsoft Flight Simulator](https://www.flightsimulator.com/) - Microsoft Flight Simulator is the next generation of one of the most beloved simulation franchises
 * [Microsoft Flight Simulator Forums](https://forums.flightsimulator.com/) - Official Microsoft Flight Simulator Forums
 
 ## Add-Ons
