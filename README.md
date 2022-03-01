@@ -12,6 +12,7 @@
 ## Maps & Charts
 
 * [Little Navmap](https://albar965.github.io/littlenavmap.html) - Little Navmap is a free open source flight planner, navigation tool, moving map, airport search and airport information system
+  * [LittleNavmapOFMTheme](https://github.com/AmbitiousPilots/LittleNavmapOFMTheme) - Now you can use open flightmaps VFR maps in Little Navmap for your VFR flight planning and navigation
 * [SkyVector Aeronautical Charts](https://skyvector.com/) - Make your Flight Plan at SkyVector.com. SkyVector is a free online flight planner. Flight planning is easy on our large collection of Aeronautical Charts, including Sectional Charts, Approach Plates, IFR Enroute Charts, and Helicopter route charts. Weather data is always current, as are Jet Fuel Prices and avgas 100ll prices.
 * [ChartFox](https://chartfox.org/) - A completely free aviation chart application for educational flight simulation
 * [open flight maps](https://www.openflightmaps.org/)
