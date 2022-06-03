@@ -9,6 +9,7 @@
 
 * [Kodiak 100 Series II](https://simworksstudios.com/kodiak-100-wheels-for-msfs.html) - The Kodiak 100 Series II is a high-wing, single-engine turboprop aircraft, capable of transporting up to 9 passengers or cargo up to a distance of 1,132nm. Equipped with the Pratt & Whitney Canada PT6A-34 engine flat-rated at 750shp, the aircraft is capable of taking off and landing in less than 350ft, enabling it to operate from small, unprepared airstrips all over the world!
 * [PA-28R Arrow III](https://www.justflight.com/product/pa-28r-arrow-iii-microsoft-flight-simulator) - The PA-28R Arrow III is a four seater, piston-engine aircraft equipped with a retractable tricycle landing gear and constant-speed propeller – an ideal aircraft for touring and instrument training. The aircraft is flown all around the world and this add-on reflects that global popularity. Including our UK research aircraft, G-BGKU, the package features eleven liveries from the USA, Canada, UK, France, Switzerland, Australia and Germany.
+* [PA-28R Turbo Arrow III/IV](https://www.justflight.com/product/pa-28r-turbo-arrow-iii-iv-microsoft-flight-simulator) - The PA-28R Turbo Arrow III and Arrow IV are four seater, turbocharged piston-engine aircraft equipped with a retractable tricycle landing gear and constant-speed propeller – ideal for touring and instrument training.
 
 ## Add-Ons
 
