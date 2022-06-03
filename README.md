@@ -12,6 +12,10 @@
 * [PA-28R Turbo Arrow III/IV](https://www.justflight.com/product/pa-28r-turbo-arrow-iii-iv-microsoft-flight-simulator) - The PA-28R Turbo Arrow III and Arrow IV are four seater, turbocharged piston-engine aircraft equipped with a retractable tricycle landing gear and constant-speed propeller – ideal for touring and instrument training.
 * [146 Professional](https://www.justflight.com/product/146-professional-microsoft-flight-simulator) - Just Flight's study-level 146 Professional add-on for MSFS includes eight passenger and cargo variants in a total of 41 liveries, with an exceptional Wwise sound package, fully functional FMS, authentic flight controls and Captain and First Officer positions complete with hundreds of functional switches, knobs and controls. The auto-flight, fuel, hydraulic, ice and rain protection, electrical, navigation and communication systems are just a few of the aircraft's custom-coded systems which have been developed to an authentic level of accuracy.
 
+## Instruments
+
+* [PMS50 GTN750](https://pms50.com/msfs/) - The PMS50 GTN750 is a GPS instrument that looks similar as the original GARMIN GTN750.
+
 ## Add-Ons
 
 * [Flightsim.to](https://flightsim.to/) - Discover thousands of free Microsoft Flight Simulator Add-ons and Mods for PC - our liveries, airports, scenery and planes are 100% free to download!
