@@ -30,3 +30,7 @@
   * [open flight maps ED (Germany)](https://www.openflightmaps.org/ed-germany/) - open flight maps Deutschland
 * [DFS Deutsche Flugsicherung](https://secais.dfs.de/pilotservice/service/aup/aup_edit_map.jsp)
 * [Navigraph](https://navigraph.com/) - Simulated Flight Real Navigation
+
+## Aviation Knowledge
+
+* [SKYbrary](https://skybrary.aero/) - SKYbrary is an electronic repository of safety knowledge related to flight operations, air traffic management (ATM) and aviation safety in general. It is also a portal, a common entry point, that enables users to access the safety data made available on the websites of various aviation organisations - regulators, service providers, industry.
